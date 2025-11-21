@@ -60,9 +60,14 @@ Vamos começar entendendo bem o que vamos aprender, o que não vamos aprender e 
 - [Meu curso sobre Recursos Educacionais Abertos (REA) e licenças Creative Commons](https://marcosvital.github.io/Curso-REA/).
 - [Creative Commons Open Education Platform](https://network.creativecommons.org/cc-open-education-platform/).
 
-### Aula 2:...
+### Aula 2: primeiro contato com o R (apenas para olhar)
 
-aqui
+Nesta aula, convido vocês a me acompanharem apenas olhando uma sessão do R. O objetivo aqui ainda não é explicar em detalhes como ele funciona, e nem que vocês reproduzam o que eu estou fazendo: a proposta é apenas mostrar o R em funcionamento, para vocês começarem a entender melhor do que se trata. Então assistam sem pressão, e ninguém precisa ainda ter o R funcionando para acompanhar esta aula, certo? A imagem a seguir irá te direcionar para o vídeo no Youtube (use a opção de abrir em outra aba se desejar):
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/DJ7zKSTsPrk)](https://youtu.be/DJ7zKSTsPrk)
+
+**Script criado na aula 2:**
+- Todos os scripts do curso ficam [disponíveis aqui nesta pasta do repositório](https://github.com/marcosvital/Aprendendo-R/tree/main/scripts) usado para criar o site do curso.
 
 #### conteúdos extras aula 2
 
