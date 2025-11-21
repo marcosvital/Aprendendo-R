@@ -4,6 +4,8 @@ _Conteúdo criado e mantido por [Marcos V. C. Vital](https://linktr.ee/marcosvit
 
 ***
 
+![logo CC BY](imagens/by50.png)
+
 Todo o conteúdo deste curso está disponível de forma aberta e gratuita, sob uma [licença CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.pt-br), isso quer dizer que você:
 
 * Pode **Compartilhar** — copiar e redistribuir o material em qualquer formato e para qualquer fim, mesmo que comercial.
