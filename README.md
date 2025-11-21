@@ -31,7 +31,7 @@ Esta página reune todos os conteúdos de um curso sobre a [linguagem R](https:/
 
 Todos os vídeos estão hospedados em [meu canal do Youtube](youtube.com/@marcosvital) dentro de uma playlist dedicada (link aqui em breve). Os conteúdos para download estão disponíveis aqui mesmo nesta página, dentro do [repositório do GitHub](https://github.com/marcosvital/Aprendendo-R) usado para criá-la. Textos complementares escritos por mim estarão na [minha página do Medium](https://marcosvital.medium.com), e conteúdos externos serão sinalizados ao longo do caminho.
 
-O conteúdo está dividido em dois Blocos: ["Bloco 1: Aprendendo R"](#bloco-1:-aprendendo-r-para-análise-de-dados) e "Bloco 2: Ensinando R". Dentro de cada bloco o curso está dividido em Módulos que organizam o conteúdo. 
+O conteúdo está dividido em dois Blocos: ["Bloco 1: Aprendendo R"](https://github.com/marcosvital/Aprendendo-R/blob/main/README.md#bloco-1-aprendendo-r-para-an%C3%A1lise-de-dados) e "Bloco 2: Ensinando R". Dentro de cada bloco o curso está dividido em Módulos que organizam o conteúdo. 
 
 **Avisos importantes:** o conteúdo foi criado e planejado para ser consumido na ordem exposta aqui, mas você tem total liberdade de usá-lo como preferir. Lembre-se que **este curso é autoinstrucional**: isto quer dizer que você irá ditar o ritmo e a forma de estudar, e também que <ins>ele não possui vínculo institucional, não oferece qualquer tipo de certificado e não tem qualquer tipo de acompanhamento ou tutoria, ok?</ins>
 
@@ -41,5 +41,9 @@ Este curso foi lançado pronto, mas pode passar por atualizações e expansões.
 
 # Bloco 1: Aprendendo R para Análise de Dados
 
-Nosso ponto de partida 
-Este é nosso módulo de boas vindas e introdução ao nosso conteúdo. Vamos aprender um pouco mais sobre o curso, nossos objetivos e motivações e darmos os primeiros passos no nosso conteúdo sobre REA, Direitos Autorais e Licenças Abertas.
+Nosso ponto de partida é começar a aprender mais sobre o R! Não se preocupe: se você nunca ouviu falar ou se sabe bem pouco sobre o R, o conteúdo a seguir foi pensando em você. Se você já tentou lidar com o R antes e achou tudo muito difícil, complicado ou frustrante: não se preocupe também, prometo que nossa jornada foi pensada para ser fluida, amigável e até mesmo (juro!) divertida!
+
+
+# Bloco 2: Ensinando R para Análise de Dados
+
+Agora chegamos em nossa segunda etapa, e de posse dos nossos conhecimentos sobre o R e seu uso, vamos pensar em como ensinar isso para outras pessoas!
