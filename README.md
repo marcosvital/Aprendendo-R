@@ -18,9 +18,7 @@ Se quiser citar este material como conteúdo acadêmico, você pode usar o segui
 
 *** 
 
-**conteúdo temporário a seguir**
-
-**atualizações em breve**
+**conteúdo em construção, enquanto este aviso estiver aqui considere que o curso não está ainda lançado oficialmente**
 
 ## Apresentação
 
@@ -31,7 +29,7 @@ Esta página reune todos os conteúdos de um curso sobre a [linguagem R](https:/
 
 Todos os vídeos estão hospedados em [meu canal do Youtube](youtube.com/@marcosvital) dentro de uma playlist dedicada (link aqui em breve). Os conteúdos para download estão disponíveis aqui mesmo nesta página, dentro do [repositório do GitHub](https://github.com/marcosvital/Aprendendo-R) usado para criá-la. Textos complementares escritos por mim estarão na [minha página do Medium](https://marcosvital.medium.com), e conteúdos externos serão sinalizados ao longo do caminho.
 
-O conteúdo está dividido em dois Blocos: ["Bloco 1: Aprendendo R"](https://github.com/marcosvital/Aprendendo-R/blob/main/README.md#bloco-1-aprendendo-r-para-an%C3%A1lise-de-dados) e "Bloco 2: Ensinando R". Dentro de cada bloco o curso está dividido em Módulos que organizam o conteúdo. 
+O conteúdo está dividido em dois Blocos: **"Bloco 1: Aprendendo R"** e **"Bloco 2: Ensinando R"**. Dentro de cada bloco o curso está dividido em **Módulos** que organizam o conteúdo. 
 
 **Avisos importantes:** o conteúdo foi criado e planejado para ser consumido na ordem exposta aqui, mas você tem total liberdade de usá-lo como preferir. Lembre-se que **este curso é autoinstrucional**: isto quer dizer que você irá ditar o ritmo e a forma de estudar, e também que <ins>ele não possui vínculo institucional, não oferece qualquer tipo de certificado e não tem qualquer tipo de acompanhamento ou tutoria, ok?</ins>
 
@@ -43,6 +41,23 @@ Este curso foi lançado pronto, mas pode passar por atualizações e expansões.
 
 Nosso ponto de partida é começar a aprender mais sobre o R! Não se preocupe: se você nunca ouviu falar ou se sabe bem pouco sobre o R, o conteúdo a seguir foi pensando em você. Se você já tentou lidar com o R antes e achou tudo muito difícil, complicado ou frustrante: não se preocupe também, prometo que nossa jornada foi pensada para ser fluida, amigável e até mesmo (juro!) divertida!
 
+## Módulo 1: vamos começar!
+
+Neste primeiro módulo vamos saber mais sobre o formato e propósito do curso, ter um primeiro contato com o R e "preparar o terreno" para iniciarmos nossas atividades práticas. Vocês irão aprender mais sobre o que é o R, como instalá-lo junto do RStudio (ou como usar a versão de navegador, se for o melhor para você) e como deixar o Rstudio pronto para uso.
+
+### Aula 1: Visão geral do curso
+
+Vamos começar entendendo bem o que vamos aprender, o que não vamos aprender e mais alguns detalhes sobre o formato do nosso curso. A imagem a seguir irá te direcionar para o vídeo no Youtube (use a opção de abrir em outra aba se desejar):
+
+**conteúdo "filler", será atualizado em breve**
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/dwgHcFJ7_yA)](https://youtu.be/dwgHcFJ7_yA)
+
+**Slides disponíveis da aula 1:**
+- [Originais no formato "Apresentações Google"](https://docs.google.com/presentation/d/1ClNcKRgDh6r-y2oCpexO_jAeCv6jiisBjxo1SsWf6mU/edit?usp=sharing) (use a opção de "fazer uma cópia" para ter sua própria versão editável).
+- [Slides em formato pdf (para reprodução) e formato odp (para edição) disponíveis aqui](https://github.com/marcosvital/Curso-REA/tree/main/slides).
+
+## Aula 2:...
 
 # Bloco 2: Ensinando R para Análise de Dados
 
