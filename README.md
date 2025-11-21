@@ -51,16 +51,16 @@ Vamos começar entendendo bem o que vamos aprender, o que não vamos aprender e 
 
 **conteúdo "filler", será atualizado em breve**
 
-[![](https://markdown-videos-api.jorgenkh.no/youtube/dwgHcFJ7_yA)](https://youtu.be/dwgHcFJ7_yA)
+[![](https://markdown-videos-api.jorgenkh.no/youtube/cTa7Zn781xQ)](https://youtu.be/cTa7Zn781xQ)
 
 **Slides disponíveis da aula 1:**
-- [Originais no formato "Apresentações Google"](https://docs.google.com/presentation/d/1ClNcKRgDh6r-y2oCpexO_jAeCv6jiisBjxo1SsWf6mU/edit?usp=sharing) (use a opção de "fazer uma cópia" para ter sua própria versão editável).
+- [Originais no formato "Apresentações Google"](https://docs.google.com/presentation/d/1lyAHfPi0tcQJNQbSHp94c_OrsQVbPLK5KdxtJKmPGUU/edit?usp=sharing) (use a opção de "fazer uma cópia" para ter sua própria versão editável).
 - [Slides em formato pdf (para reprodução) e formato odp (para edição) disponíveis aqui](https://github.com/marcosvital/Curso-REA/tree/main/slides).
 
-#### Links e recursos úteis após a aula 1
+#### Links e recursos mencionados na aula 1
 
-- [Conteúdo do _Creative Commons Certificate for Educators_](https://certificates.creativecommons.org/about/certificate-resources-cc-by/).
-- [Cartilha da _Creative Commons_ Brasil](https://br.creativecommons.net/wp-content/uploads/sites/30/2021/02/CartilhaCCBrasil.pdf).
+- [Meu curso sobre Recursos Educacionais Abertos (REA) e licenças Creative Commons](https://marcosvital.github.io/Curso-REA/).
+- [Creative Commons Open Education Platform](https://network.creativecommons.org/cc-open-education-platform/).
 
 ### Aula 2:...
 
