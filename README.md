@@ -1,6 +1,6 @@
 ### Um curso livre e autoinstrucional sobre como aprender e ensinar a linguagem R para Análide de Dados.
 
-_Conteúdo criado e mantido por [Marcos V. C. Vital](https://linktr.ee/marcosvital)_ e pela equipe do [Laboratório de Ecologia Quantitava da UFAL](https://linktr.ee/leq.ufal).
+_Conteúdo criado e mantido por [Marcos V. C. Vital](https://linktr.ee/marcosvital)_ e pela equipe do [Laboratório de Ecologia Quantitava da UFAL](https://linktr.ee/leq.ufal), com apoio da [Creative Commons Open Education Platform](https://network.creativecommons.org/cc-open-education-platform/).
 
 ***
 
