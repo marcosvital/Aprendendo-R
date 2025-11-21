@@ -1,0 +1,1 @@
+As imagens usadas para o repositório e página do curso ficarão armazenadas aqui. A não ser que algo diferente seja dito, todas elas estão disponíveis por uma [licença CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.pt-br).
