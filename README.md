@@ -97,8 +97,16 @@ Nesta aula vamos preparar as coisas para colocar a mão na massa! Vou mostrar co
 
 Tudo pronto para começar a praticar? Se você já instalou o R e o RStudio ou preparou o seu acesso à versão na nuvem, então podemos seguir e começar a trabalhar na prática. Vamos lá?!
 
-### Aula 5:
+### Aula 5: meu primeiro Script no R!
 
+Vamos começar a usar o R? Nesta aula vamos criar um script e dar nossos primeiros passos na linguagem R. Agora é pra valer, vamos lá!
+
+A imagem a seguir irá te direcionar para o vídeo no Youtube (use a opção de abrir em outra aba se desejar):
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/JdnPjbSXcgo)](https://youtu.be/JdnPjbSXcgo)
+
+**Script usado da aula 5 até a 6:**
+- Todos os scripts do curso ficam [disponíveis aqui nesta pasta do repositório](https://github.com/marcosvital/Aprendendo-R/tree/main/scripts) usado para criar o site do curso.
 
 
 # Bloco 2: Ensinando R para Análise de Dados
