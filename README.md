@@ -57,7 +57,18 @@ Vamos começar entendendo bem o que vamos aprender, o que não vamos aprender e 
 - [Originais no formato "Apresentações Google"](https://docs.google.com/presentation/d/1ClNcKRgDh6r-y2oCpexO_jAeCv6jiisBjxo1SsWf6mU/edit?usp=sharing) (use a opção de "fazer uma cópia" para ter sua própria versão editável).
 - [Slides em formato pdf (para reprodução) e formato odp (para edição) disponíveis aqui](https://github.com/marcosvital/Curso-REA/tree/main/slides).
 
-## Aula 2:...
+#### Links e recursos úteis após a aula 1
+
+- [Conteúdo do _Creative Commons Certificate for Educators_](https://certificates.creativecommons.org/about/certificate-resources-cc-by/).
+- [Cartilha da _Creative Commons_ Brasil](https://br.creativecommons.net/wp-content/uploads/sites/30/2021/02/CartilhaCCBrasil.pdf).
+
+### Aula 2:...
+
+aqui
+
+#### conteúdos extras aula 2
+
+aqui
 
 # Bloco 2: Ensinando R para Análise de Dados
 
