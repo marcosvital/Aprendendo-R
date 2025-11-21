@@ -79,7 +79,27 @@ Nesta aula vou falar mais sobre o que é o R, e o que ele tem de tão interessan
 - [Originais no formato "Apresentações Google"](https://docs.google.com/presentation/d/1q-q-hPGkA1tCS6nD8OvaLy_GTliqcltXYduvXKjnnm4/edit?usp=sharing) (use a opção de "fazer uma cópia" para ter sua própria versão editável).
 - [Slides em formato pdf (para reprodução) e formato odp (para edição) disponíveis aqui](https://github.com/marcosvital/Aprendendo-R/tree/main/slides).
 
-### Aula 4:
+### Aula 4: instalando e configurando o R e o RStudio
+
+Nesta aula vamos preparar as coisas para colocar a mão na massa! Vou mostrar como é feita a instalação do R e do RStudio, e mostrar a alternativa para trabalhar na nuvem (usando um navegador, sem instalar nada) para quem precisar. Por fim, vou mostrar como configuramos o RStudio para ele ficar prontinho para uso! A imagem a seguir irá te direcionar para o vídeo no Youtube (use a opção de abrir em outra aba se desejar):
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/G0YeWG44BPs)](https://youtu.be/G0YeWG44BPs)
+
+#### Links e recursos mencionados na aula 4
+
+- [Página principal do R](https://www.r-project.org).
+- [Página principal do RStudio](https://posit.co/download/rstudio-desktop/).
+- [Página do Posit Cloud, que permite o uso do RStudio em um navegador de internet, sem instalação](https://posit.cloud).
+
+***
+
+## Módulo 2: primeiros passos no R!
+
+Tudo pronto para começar a praticar? Se você já instalou o R e o RStudio ou preparou o seu acesso à versão na nuvem, então podemos seguir e começar a trabalhar na prática. Vamos lá?!
+
+### Aula 5:
+
+
 
 # Bloco 2: Ensinando R para Análise de Dados
 
