@@ -1,0 +1,1 @@
+Aqui vou compartilhar todos os cripts criados em nossas aulas. A não ser que algo diferente seja dito, todos eles estão disponíveis sob uma [licença Creative Commons CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.pt-br).
