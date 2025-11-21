@@ -69,9 +69,17 @@ Nesta aula, convido vocês a me acompanharem apenas olhando uma sessão do R. O 
 **Script criado na aula 2:**
 - Todos os scripts do curso ficam [disponíveis aqui nesta pasta do repositório](https://github.com/marcosvital/Aprendendo-R/tree/main/scripts) usado para criar o site do curso.
 
-#### conteúdos extras aula 2
+### Aula 3: o que é o R e por que usá-lo?
 
-aqui
+Nesta aula vou falar mais sobre o que é o R, e o que ele tem de tão interessante assim para querermos aprender a usá-lo. A imagem a seguir irá te direcionar para o vídeo no Youtube (use a opção de abrir em outra aba se desejar):
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/jAeEG3xJz5k)](https://youtu.be/jAeEG3xJz5k)
+
+**Slides disponíveis da aula 3:**
+- [Originais no formato "Apresentações Google"](https://docs.google.com/presentation/d/1q-q-hPGkA1tCS6nD8OvaLy_GTliqcltXYduvXKjnnm4/edit?usp=sharing) (use a opção de "fazer uma cópia" para ter sua própria versão editável).
+- [Slides em formato pdf (para reprodução) e formato odp (para edição) disponíveis aqui](https://github.com/marcosvital/Aprendendo-R/tree/main/slides).
+
+### Aula 4:
 
 # Bloco 2: Ensinando R para Análise de Dados
 
