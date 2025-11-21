@@ -49,13 +49,11 @@ Neste primeiro módulo vamos saber mais sobre o formato e propósito do curso, t
 
 Vamos começar entendendo bem o que vamos aprender, o que não vamos aprender e mais alguns detalhes sobre o formato do nosso curso. A imagem a seguir irá te direcionar para o vídeo no Youtube (use a opção de abrir em outra aba se desejar):
 
-**conteúdo "filler", será atualizado em breve**
-
 [![](https://markdown-videos-api.jorgenkh.no/youtube/cTa7Zn781xQ)](https://youtu.be/cTa7Zn781xQ)
 
 **Slides disponíveis da aula 1:**
 - [Originais no formato "Apresentações Google"](https://docs.google.com/presentation/d/1lyAHfPi0tcQJNQbSHp94c_OrsQVbPLK5KdxtJKmPGUU/edit?usp=sharing) (use a opção de "fazer uma cópia" para ter sua própria versão editável).
-- [Slides em formato pdf (para reprodução) e formato odp (para edição) disponíveis aqui](https://github.com/marcosvital/Curso-REA/tree/main/slides).
+- [Slides em formato pdf (para reprodução) e formato odp (para edição) disponíveis aqui](https://github.com/marcosvital/Aprendendo-R/tree/main/slides).
 
 #### Links e recursos mencionados na aula 1
 
