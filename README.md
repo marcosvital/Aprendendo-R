@@ -109,9 +109,16 @@ Agora que temos um script, vamos entender o primeiro dos dois elementos centrais
 
 [![](https://markdown-videos-api.jorgenkh.no/youtube/deWlVMQE_4A)](https://youtu.be/deWlVMQE_4A)
 
-**Script usado da aula 5 até a 6:**
+### Aula 7: os objetos no R
+
+Agora que vocês já sabem o que é uma função e como elas são reconhecidas no R, vamos para o outro elemento central da linguagem: os objetos. A imagem a seguir irá te direcionar para o vídeo no Youtube (use a opção de abrir em outra aba se desejar):
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/hRsLrCPEN6w)](https://youtu.be/hRsLrCPEN6w)
+
+**Script usado da aula 5 até a 7:**
 - Todos os scripts do curso ficam [disponíveis aqui nesta pasta do repositório](https://github.com/marcosvital/Aprendendo-R/tree/main/scripts) usado para criar o site do curso.
 
+### Aula 8
 
 # Bloco 2: Ensinando R para Análise de Dados
 
