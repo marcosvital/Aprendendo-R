@@ -118,7 +118,25 @@ Agora que vocês já sabem o que é uma função e como elas são reconhecidas n
 **Script usado da aula 5 até a 7:**
 - Todos os scripts do curso ficam [disponíveis aqui nesta pasta do repositório](https://github.com/marcosvital/Aprendendo-R/tree/main/scripts) usado para criar o site do curso.
 
-### Aula 8
+## Módulo 3: conceitos básicos e "data frames" no R
+
+Agora que vocês já tiveram um primeito contato e dominaram a lógica básica do R, vamos partir de alguns conceitos fundamentais da Estatística e começar a trabalhar no R com dados em forma de planilha - o que no R será chamado de "data frame".
+
+### Aula 8: primeiros conceitos de Estatística
+
+Antes de retomarmos nossa prática no R precisamos trabalhar com alguns conceitos fundamentais. Entender o que são amostras, unidades amostrais e variáveis servirá de base para o que faremos a seguir, então vamos lá. A imagem a seguir irá te direcionar para o vídeo no Youtube (use a opção de abrir em outra aba se desejar):
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/akv4w1nZ2rg)](https://youtu.be/akv4w1nZ2rg)
+
+**Slides disponíveis da aula 8:**
+- [Originais no formato "Apresentações Google"](https://docs.google.com/presentation/d/1xGzSNBHL-jHwq0aS0Q82EKTid3qSiN8C8aqbIqhZfWs/edit?usp=sharing) (use a opção de "fazer uma cópia" para ter sua própria versão editável).
+- [Slides em formato pdf (para reprodução) e formato odp (para edição) disponíveis aqui](https://github.com/marcosvital/Aprendendo-R/tree/main/slides).
+
+### Aula 9:
+
+
+## Módulo 4: estatística descritiva no R, e primeiros gráficos
+
 
 # Bloco 2: Ensinando R para Análise de Dados
 
