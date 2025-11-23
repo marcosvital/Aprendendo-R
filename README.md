@@ -132,7 +132,29 @@ Antes de retomarmos nossa prática no R precisamos trabalhar com alguns conceito
 - [Originais no formato "Apresentações Google"](https://docs.google.com/presentation/d/1xGzSNBHL-jHwq0aS0Q82EKTid3qSiN8C8aqbIqhZfWs/edit?usp=sharing) (use a opção de "fazer uma cópia" para ter sua própria versão editável).
 - [Slides em formato pdf (para reprodução) e formato odp (para edição) disponíveis aqui](https://github.com/marcosvital/Aprendendo-R/tree/main/slides).
 
-### Aula 9:
+### Aula 9: primeiros passos com dados no R, lidando com os "data frames"
+
+Agora vamos aprender a respeito do formato de objeto que o R chama de "data frame", que equivale ao que no dia à dia chamamos de "planilha de dados". Nesta primeira aula de uma sequência de quatro (agora da aula 9 até a aula 12) vamos aprender o básico sobre este formato, e ao longo do caminho vamos criando um script para aprender praticando. A imagem a seguir irá te direcionar para o vídeo no Youtube (use a opção de abrir em outra aba se desejar):
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/nD6Wg5_UwuE)](https://youtu.be/nD6Wg5_UwuE)
+
+### Aula 10: linhas e colunas em um data frame no R
+
+Agora que vocês já tem uma visão de como o R lê um conjunto de dados típico, nós vamos aprender mais sobre a forma como ele lê e entende as linhas e colunas de um data frame.  A imagem a seguir irá te direcionar para o vídeo no Youtube (use a opção de abrir em outra aba se desejar):
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/x6IQI0ou5yY)](https://youtu.be/x6IQI0ou5yY)
+
+### Aula 11: usando a função which para fazer perguntas e explorar data frames no R, parte 1
+
+Vamos aprender uma nova função? A função which () vai nos ajudar imensamente a trabalhar com data frames no R. Vamos conhecê-la e começar a usá-la nesta aula.  A imagem a seguir irá te direcionar para o vídeo no Youtube (use a opção de abrir em outra aba se desejar):
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/yBvXXE94Gc8)](https://youtu.be/yBvXXE94Gc8)
+
+### Aula 12: usando a função which para fazer perguntas e explorar data frames no R, parte 2
+
+Vamos avançar mais um pouquinho com a função wich (), e explorar diferentes formas de trabalhar com o R para se chegar em um mesmo resultado. A imagem a seguir irá te direcionar para o vídeo no Youtube (use a opção de abrir em outra aba se desejar):
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/oy638KSJr1k)](https://youtu.be/oy638KSJr1k)
 
 
 ## Módulo 4: estatística descritiva no R, e primeiros gráficos
