@@ -122,6 +122,8 @@ Agora que vocês já sabem o que é uma função e como elas são reconhecidas n
 **Script usado da aula 5 até a 7:**
 - Todos os scripts do curso ficam [disponíveis aqui nesta pasta do repositório](https://github.com/marcosvital/Aprendendo-R/tree/main/scripts) usado para criar o site do curso.
 
+***
+
 ## Módulo 3: conceitos básicos e "data frames" no R
 
 Agora que vocês já tiveram um primeito contato e dominaram a lógica básica do R, vamos partir de alguns conceitos fundamentais da Estatística e começar a trabalhar no R com dados em forma de planilha - o que no R será chamado de "data frame".
@@ -160,6 +162,7 @@ Vamos avançar mais um pouquinho com a função wich (), e explorar diferentes f
 
 [![](https://markdown-videos-api.jorgenkh.no/youtube/oy638KSJr1k)](https://youtu.be/oy638KSJr1k)
 
+***
 
 ## Módulo 4: estatística descritiva no R, e primeiros gráficos
 
@@ -173,6 +176,10 @@ Vamos voltar por um instante aos slides, e pensar na "boa e velha" média aritm�
 #### Leitura recomendada para finalizar o Módulo 4:
 
 - [Tia, precisamos falar sobre a Média.](https://medium.com/hip%C3%B3tese-nula/tia-precisamos-falar-sobre-a-m%C3%A9dia-f6c5031bfb6e)
+
+
+***
+***
 
 # Bloco 2: Ensinando R para Análise de Dados
 
