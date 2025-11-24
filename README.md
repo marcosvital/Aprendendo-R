@@ -91,6 +91,10 @@ Nesta aula vamos preparar as coisas para colocar a mão na massa! Vou mostrar co
 - [Página principal do RStudio](https://posit.co/download/rstudio-desktop/).
 - [Página do Posit Cloud, que permite o uso do RStudio em um navegador de internet, sem instalação](https://posit.cloud).
 
+#### Leitura recomendada para finalizar o Módulo 1
+
+- [Explicando Estatística para a sua Tia!](https://medium.com/hip%C3%B3tese-nula/explicando-estat%C3%ADstica-para-a-sua-tia-a-import%C3%A2ncia-de-aprender-um-pouquinho-de-estat%C3%ADstica-para-a-ae5e3ee92466)
+
 ***
 
 ## Módulo 2: primeiros passos no R!
@@ -159,6 +163,16 @@ Vamos avançar mais um pouquinho com a função wich (), e explorar diferentes f
 
 ## Módulo 4: estatística descritiva no R, e primeiros gráficos
 
+Agora que temos um domínio básico do R e dos data frames, podemos avançar para aspectos práticos bem importantes - e vamos começar com as ferramentas estatísticas usadas para se resumir e descrever dados: a Estatística Descritiva. Aqui vamos aprender sobre medidas de tendência central e de dispersão, e também sobre as medidas de posição. Também vamos fazer nossos primeiros gráficos, e com isso aprender R e Estatística ao mesmo tempo.
+
+### Aula 13: Estatística Descritiva parte 1, média e desvio padrão
+
+Vamos voltar por um instante aos slides, e pensar na "boa e velha" média aritmética e como usá-la de forma adequada junto do Desvio Padrão.
+
+
+#### Leitura recomendada para finalizar o Módulo 4:
+
+- [Tia, precisamos falar sobre a Média.](https://medium.com/hip%C3%B3tese-nula/tia-precisamos-falar-sobre-a-m%C3%A9dia-f6c5031bfb6e)
 
 # Bloco 2: Ensinando R para Análise de Dados
 
