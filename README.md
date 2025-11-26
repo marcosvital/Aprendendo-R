@@ -18,8 +18,6 @@ Se quiser citar este material como conteúdo acadêmico, você pode usar o segui
 
 *** 
 
-**conteúdo em construção, enquanto este aviso estiver aqui considere que o curso não está ainda lançado oficialmente**
-
 ## Apresentação
 
 Esta página reune todos os conteúdos de um curso sobre a [linguagem R](https://www.r-project.org) e suas aplicações em análise e visualização de dados. Ele é composto por vídeos, textos, materiais complementares (como dados, scripts de R e slides) e indicações de recursos externos - tudo construído e pensado para duas coisas:
@@ -170,13 +168,54 @@ Agora que temos um domínio básico do R e dos data frames, podemos avançar par
 
 ### Aula 13: Estatística Descritiva parte 1, média e desvio padrão
 
-Vamos voltar por um instante aos slides, e pensar na "boa e velha" média aritmética e como usá-la de forma adequada junto do Desvio Padrão.
+Vamos voltar por um instante aos slides, e pensar na "boa e velha" média aritmética e como usá-la de forma adequada junto do Desvio Padrão. A imagem a seguir irá te direcionar para o vídeo no Youtube (use a opção de abrir em outra aba se desejar):
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/FrfKfC1tGS0)](https://youtu.be/FrfKfC1tGS0)
+
+**Slides disponíveis da aula 13:**
+- [Originais no formato "Apresentações Google"](https://docs.google.com/presentation/d/19zEShL6suynbtaKf2kdKrtdAs9MwnWkqtpfFxjcnpm8/edit?usp=sharing) (use a opção de "fazer uma cópia" para ter sua própria versão editável).
+- [Slides em formato pdf (para reprodução) e formato odp (para edição) disponíveis aqui](https://github.com/marcosvital/Aprendendo-R/tree/main/slides).
+
+### Aula 14: média e desvio padrão no R, e como lidar com NAs (além de um histograma de brinde!)
+
+Agora vamos voltar ao R e aprender a calcular média e desvio padrão na prática, além de aprendermos a lidar com dados ausentes (os NAs) e de quebra criar um pequeno histograma. A imagem a seguir irá te direcionar para o vídeo no Youtube (use a opção de abrir em outra aba se desejar):
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/xo4x6h0lj9I)](https://youtu.be/xo4x6h0lj9I)
+
+### Aula 15: Estatística descritiva parte 2, as medidas de posição (mediana, quartis e percentis)
+
+Terminamos a aula com um "gancho", indicando que nem sepre a média+desvio é uma boa maneira de representar os dados. Então vamos olhar para uma boa alternativa: as medidas de posição. Primeiro, vamos com slides para entender o básico. A imagem a seguir irá te direcionar para o vídeo no Youtube (use a opção de abrir em outra aba se desejar):
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/nq-ci9ocMyk)](https://youtu.be/nq-ci9ocMyk)
+
+**Slides disponíveis da aula 15:**
+- [Originais no formato "Apresentações Google"](https://docs.google.com/presentation/d/1yfADA2QenmXNdgrDnxci8X6ELPUKuC96aa-efS-RJI4/edit?usp=sharing) (use a opção de "fazer uma cópia" para ter sua própria versão editável).
+- [Slides em formato pdf (para reprodução) e formato odp (para edição) disponíveis aqui](https://github.com/marcosvital/Aprendendo-R/tree/main/slides).
+
+### Aula 16: calculando medidas de posição no R (mediana, quartis e percentis)
+
+Agora vamos voltar à prática, e aprender a calcular as medidas de posição que desejarmos no R. A imagem a seguir irá te direcionar para o vídeo no Youtube (use a opção de abrir em outra aba se desejar):
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/vhs58D9l8Mc)](https://youtu.be/vhs58D9l8Mc)
+
+**Script usado nas aulas 14 e 16:**
+- Todos os scripts do curso ficam [disponíveis aqui nesta pasta do repositório](https://github.com/marcosvital/Aprendendo-R/tree/main/scripts) usado para criar o site do curso.
 
 #### Leitura recomendada para finalizar o Módulo 4:
 
+A leitura a seguir, de um texto do meu blog, complementa um pouco o que vimos em aula (de forma bem leve e descontraída).
+
 - [Tia, precisamos falar sobre a Média.](https://medium.com/hip%C3%B3tese-nula/tia-precisamos-falar-sobre-a-m%C3%A9dia-f6c5031bfb6e)
 
+***
+
+## Módulo 5: projetos no RStudio, arquivos com dados e primeiros passos em exploração descritiva de dados
+
+Avançamos bastante, não foi? Agora vamos aprender a lidar com um projeto no RStudio, a ler dados de uma planilha em arquivo e praticar um pouco uam abordagem mais exploratória dos dados usando as ferramentas que aprendemos até agora (e aprendendo algumas novas, claro!).
+
+### Aula 17...
+
+**Conteúdo novo em breve**
 
 ***
 ***
@@ -184,3 +223,5 @@ Vamos voltar por um instante aos slides, e pensar na "boa e velha" média aritm�
 # Bloco 2: Ensinando R para Análise de Dados
 
 Agora chegamos em nossa segunda etapa, e de posse dos nossos conhecimentos sobre o R e seu uso, vamos pensar em como ensinar isso para outras pessoas!
+
+**Conteúdo novo em breve**
