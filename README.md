@@ -136,6 +136,9 @@ Antes de retomarmos nossa prática no R precisamos trabalhar com alguns conceito
 - [Originais no formato "Apresentações Google"](https://docs.google.com/presentation/d/1xGzSNBHL-jHwq0aS0Q82EKTid3qSiN8C8aqbIqhZfWs/edit?usp=sharing) (use a opção de "fazer uma cópia" para ter sua própria versão editável).
 - [Slides em formato pdf (para reprodução) e formato odp (para edição) disponíveis aqui](https://github.com/marcosvital/Aprendendo-R/tree/main/slides).
 
+**Planilha criada na aula 8:**
+- [A planilha "Gatos do Marcos" está disponível aqui no formato original de planilha do Google](https://docs.google.com/spreadsheets/d/1HVO1k6f6WRUcWwKhr554ZkmqRAzRtxtqrs1nDID-CvM/edit?usp=sharing).
+
 ### Aula 9: primeiros passos com dados no R, lidando com os "data frames"
 
 Agora vamos aprender a respeito do formato de objeto que o R chama de "data frame", que equivale ao que no dia à dia chamamos de "planilha de dados". Nesta primeira aula de uma sequência de quatro (agora da aula 9 até a aula 12) vamos aprender o básico sobre este formato, e ao longo do caminho vamos criando um script para aprender praticando. A imagem a seguir irá te direcionar para o vídeo no Youtube (use a opção de abrir em outra aba se desejar):
