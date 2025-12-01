@@ -1,0 +1,1 @@
+Aqui compartilho todos os conjuntos de dados usados nas aulas. A não ser que eu avise algo diferente, os dados estão todos disponíveis com uma [licença CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.pt-br).
