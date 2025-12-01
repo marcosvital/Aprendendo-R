@@ -212,11 +212,58 @@ A leitura a seguir, de um texto do meu blog, complementa um pouco o que vimos em
 
 ***
 
-## Módulo 5: projetos no RStudio, arquivos com dados e primeiros passos em exploração descritiva de dados
+## Módulo 5: dicionáros de funções, projetos no RStudio e lendo arquivos com dados
 
-Avançamos bastante, não foi? Agora vamos aprender a lidar com um projeto no RStudio, a ler dados de uma planilha em arquivo e praticar um pouco uam abordagem mais exploratória dos dados usando as ferramentas que aprendemos até agora (e aprendendo algumas novas, claro!).
+Avançamos bastante, não foi? Agora vamos criar um material de apoio (com um dicionário de funções), aprender a lidar com um projeto no RStudio e a ler dados de uma planilha em arquivo.
 
-### Aula 17...
+**Conteúdo novo em breve, videos a seguir serão adicionados em breve**
+
+### Aula 17: criando nosso dicionário de funções do R
+
+Nesta aula vamos criar um documento compartilhado, que irá funciona como material de apoio para a disciplina e inclui um dicionário de funções do R! Vamos lá? A imagem a seguir irá te direcionar para o vídeo no Youtube (use a opção de abrir em outra aba se desejar):
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/vhs58D9l8Mc)](https://youtu.be/vhs58D9l8Mc)
+
+**Documento criados na aula 18 - material de apoio e dicionário de funções:**
+- [Nosso documento está disponível aqui](https://docs.google.com/document/d/1AIjBKsGmIfaahwO3vR2S4CaNSB-5NG0mNrURWErCsYc/edit?usp=sharing), crie uma cópia se quiser.
+
+### Aula 18: criando um projeto no RStudio
+
+Antes de avançarmos mais com o R, precisamos aprender como criar um projeto no RStudio, pois a partir daqui vamos sempre usar este recurso para trabalharmos e aprendermos mais sobre o R. A imagem a seguir irá te direcionar para o vídeo no Youtube (use a opção de abrir em outra aba se desejar):
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/vhs58D9l8Mc)](https://youtu.be/vhs58D9l8Mc)
+
+### Aula 19: lendo uma planilha de dados no R usando arquivo csv
+
+E finalmente chegou a hora! Vamos aprender a ler uma planilha de dados no R, usando como base o formato csv. A imagem a seguir irá te direcionar para o vídeo no Youtube (use a opção de abrir em outra aba se desejar):
+
+**Script usado na aulas 19:**
+- Todos os scripts do curso ficam [disponíveis aqui nesta pasta do repositório](https://github.com/marcosvital/Aprendendo-R/tree/main/scripts) usado para criar o site do curso.
+
+**Dados usados na aulas 19:**
+- Todos os arquivos de dados  do curso ficam [disponíveis aqui nesta pasta do repositório](https://github.com/marcosvital/Aprendendo-R/tree/main/dados) usado para criar o site do curso.
+
+### Aula 20: baixando os conteúdos do curso do repositório
+
+Todos os arquivos disponibilizados para vocês aqui no curso ficam [hospedados em um repositório do GitHub](https://github.com/marcosvital/Aprendendo-R), e nesta breve aula eu mostro como vocês podem acessar e baixar materiais como slides, scripts e dados. A imagem a seguir irá te direcionar para o vídeo no Youtube (use a opção de abrir em outra aba se desejar):
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/vhs58D9l8Mc)](https://youtu.be/vhs58D9l8Mc)
+
+***
+
+## Módulo 6: primeiros passos na exploração de dados
+
+Vamos avançar mais! Agora que vocês já sabem ler arquivos de dados no R, organizar projetos no RStudio e os fundamentos básicos de estatística descritiva, podemos exercitar um pouco a nossa capacidade de explorar dados no R. Vamos seguindo!
+
+### Aula 21: lendo e preparando os dados dos Pinguins de Palmer no R para exploração
+
+Como ponto de partida, vamos conhecer os dados dos [Pinguins do Arquipélago Palmer](https://pt.wikipedia.org/wiki/Arquip%C3%A9lago_Palmer), e prepará-los para começarmos a trabalhar e aprender mais sobre dados no R. A imagem a seguir irá te direcionar para o vídeo no Youtube (use a opção de abrir em outra aba se desejar):
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/vhs58D9l8Mc)](https://youtu.be/vhs58D9l8Mc)
+
+**Dados e Scripts das aulas 21 a ...:**
+- Todos os scripts do curso ficam [disponíveis aqui nesta pasta do repositório](https://github.com/marcosvital/Aprendendo-R/tree/main/scripts) usado para criar o site do curso.
+- Todos os arquivos de dados  do curso ficam [disponíveis aqui nesta pasta do repositório](https://github.com/marcosvital/Aprendendo-R/tree/main/dados) usado para criar o site do curso.
 
 **Conteúdo novo em breve**
 
