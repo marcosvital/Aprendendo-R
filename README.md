@@ -261,9 +261,45 @@ Como ponto de partida, vamos conhecer os dados dos [Pinguins do Arquipélago Pal
 
 [![](https://markdown-videos-api.jorgenkh.no/youtube/MgNQWRXatJc)](https://youtu.be/MgNQWRXatJc)
 
-**Dados e Scripts das aulas 21 a ...:**
+### Aula 22: iniciando a exploração dos dados dos Pinguins de Palmer e tabulando dados de uma variável categórica
+
+Vamos seguir com os dados que apresentamos na aula passada, e aprender a usar a função table () com o objetivo de criar um gráfico de barras. A imagem a seguir irá te direcionar para o vídeo no Youtube (use a opção de abrir em outra aba se desejar):
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/VNP1ZshJbXg)](https://youtu.be/VNP1ZshJbXg)
+
+
+### Aula 23: seguindo com a exploração dos dados dos Pinguins de Palmer e criando um gráfico de barras
+
+Terminamos a aula passada criando um gráfico de barras com a função barplot (), e agora vamos aprender a usá-la com mais detalhes, editando alguns elementos importantes. A imagem a seguir irá te direcionar para o vídeo no Youtube (use a opção de abrir em outra aba se desejar):
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/lsK3RA7Eh7w)](https://youtu.be/lsK3RA7Eh7w)
+
+
+### Aula 24: resolvendo a tarefinha da aula 23!
+
+Aqui vou aprensentar bem rapidamente a solução da tarefa propostas na aula passada. A imagem a seguir irá te direcionar para o vídeo no Youtube (use a opção de abrir em outra aba se desejar):
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/dhwzeiOsB1M)](https://youtu.be/dhwzeiOsB1M)
+
+
+### Aula 25: seguindo com a exploração dos dados dos Pinguins de Palmer e criando um histograma
+
+Agora vamos aprender a criar histogramas com variáveis quantitativas, usando a função hist (). A imagem a seguir irá te direcionar para o vídeo no Youtube (use a opção de abrir em outra aba se desejar):
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/mKAMOeeTH0k)](https://youtu.be/mKAMOeeTH0k)
+
+
+### Aula 26:...
+
+**Dados e Scripts das aulas 21 a 26:**
 - Todos os scripts do curso ficam [disponíveis aqui nesta pasta do repositório](https://github.com/marcosvital/Aprendendo-R/tree/main/scripts) usado para criar o site do curso.
 - Todos os arquivos de dados  do curso ficam [disponíveis aqui nesta pasta do repositório](https://github.com/marcosvital/Aprendendo-R/tree/main/dados) usado para criar o site do curso.
+
+***
+
+## Módulo 7: resolvendo problemas, procurando ajuda e a comunidade do R
+
+Nós avançamos bastante na nossa jornada de uso do R, e agora é um momento bem importante para conversamos sobre como resolver problemas e erros que surgem no dia à dia de uso da linguagem, como procurar ajuda na internet e termos uma visão geral da comunidade de usuários e entusiastas do R (e como ela pode nos ajudar, e muito).
 
 **Conteúdo novo em breve**
 
