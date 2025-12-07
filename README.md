@@ -289,9 +289,19 @@ Agora vamos aprender a criar histogramas com variáveis quantitativas, usando a 
 [![](https://markdown-videos-api.jorgenkh.no/youtube/mKAMOeeTH0k)](https://youtu.be/mKAMOeeTH0k)
 
 
-### Aula 26:...
+### Aula 26: explorando mais os dados dos Pinguins de Palmer, agora selecionando dados por espécie
 
-**Dados e Scripts das aulas 21 a 26:**
+Avançando um pouco, vamos agora criar nossos histogramas de forma separada para cada uma das três espécies. A imagem a seguir irá te direcionar para o vídeo no Youtube (use a opção de abrir em outra aba se desejar):
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/SccRY4wwkyg)](https://youtu.be/SccRY4wwkyg)
+
+### Aula 27: finalizando a exploração dos dados dos Pinguins de Palmer, e aprendendo as funções split e tapply
+
+Para finalizar esta sequência de aulas brincando com os dados dos Pinguins de Palmer, vamos agora aprender duas funções muito úteis no dia à dia do R: a split () e a tapply (). A imagem a seguir irá te direcionar para o vídeo no Youtube (use a opção de abrir em outra aba se desejar):
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/gL-CRQr1it8)](https://youtu.be/gL-CRQr1it8)
+
+**Dados e Scripts das aulas 21 a 27:**
 - Todos os scripts do curso ficam [disponíveis aqui nesta pasta do repositório](https://github.com/marcosvital/Aprendendo-R/tree/main/scripts) usado para criar o site do curso.
 - Todos os arquivos de dados  do curso ficam [disponíveis aqui nesta pasta do repositório](https://github.com/marcosvital/Aprendendo-R/tree/main/dados) usado para criar o site do curso.
 
