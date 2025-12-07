@@ -360,6 +360,56 @@ Nesta segunda aula sobre o tema, eu uso um exemplo da área de Ecologia para ilu
 
 Agora daremos um passo importante na nossa jornada de aprendizagem de R: vamos olhar com mais cuidado e profundidade para os gráficos. Iniciaremos revendo os que já conhecemos, e depois avançaremos para os gráficos que nos permitem investigar a possível relação entre duas variáveis escolhidas.
 
+### Aula 31: avançando com gráficos no R
+
+Vamos iniciar um novo e importante módulo, e nesta primeira (e breve) aula vamos falar sobre o que está por vir. A imagem a seguir irá te direcionar para o vídeo no Youtube (use a opção de abrir em outra aba se desejar):
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/lGITJBlp5Jo)](https://youtu.be/lGITJBlp5Jo)
+
+### Aula 32: histogramas no R
+
+Vamos voltar as histogramas? Mas agora que sabemos mais sobre o uso do R, vamos editá-lo, observar dados por trás e gerar um script modelo.
+
+### Aula 33: gráficos de barras simples no R
+
+Assim como voltamos aos histogramas, também vamos voltar aos gráficos de barras - e novamente vamos explorar com cuidado, para também gerar um script modelo.
+
+### Aula 34: perguntas, hipóteses, predições e relações entre variáveis em gráficos
+
+Vamos voltar um pouquinho aos slides, e pensar um pouco em como gráficos podem nos ajudar a explorar e entender a relação entre duas variáveis. Neste ponto pode ser interessante ter assistido as aulas extras sobre Delineamento e sobre Método Hipotético Dedutivo que foram disponibilizadas acima.
+
+**Slides disponíveis da aula 34:**
+- [Originais no formato "Apresentações Google"](https://docs.google.com/presentation/d/1y_YgpO-hyKXbUsnRL0Wzb0gOUQ9Romu0VbrlPsm0Gts/edit?usp=sharing) (use a opção de "fazer uma cópia" para ter sua própria versão editável).
+- [Slides em formato pdf (para reprodução) e formato odp (para edição) disponíveis aqui](https://github.com/marcosvital/Aprendendo-R/tree/main/slides).
+
+### Aula 35: boxplots no R
+
+Vamos conhecer os boxplots, usando-os para interpretar a relação entre uma variável explicativa categórica e uma resposta quantitativa, criando um script modelo.
+
+### Aula 36: explorando distribuições de frequência no R
+
+Agora que conhecemos bem os histogramas, os boxplots e sabemos um pouco de estatística descritiva, vamos usar estas ferramentas para entender mais sobre como os valores de variáveis quantitativas podem se distribuir.
+
+### Aula 37: gráficos de dispersão no R
+
+Agora vamos aprender sobre como usar gráficos de dispersão para entender a relação entre duas variáveis quantitativas.
+
+### Aula 38: gráficos de barras no R
+
+Agora vamos aprender sobre como usar gráficos de barras para entender a relação entre duas variáveis categóricas no R.
+
+### Aula 39: editando os níveis de uma variável categórica e adicionando legendas nos gráficos
+
+Vamos continuar com nossa aula sobre os gráficos de barras, e vamos usar nosso exemplo para aprender a alterar a ordem dos níveis de  um fator, alterar as cores do gráfico e adicionar uma legenda.
+
+### Aula 40: boxplots na horizontal no R
+
+Vamos voltar aos boxplots, mas agora iremos inverter os eixos e pensar em como explorar a relação de uma variável explicativa quantitativa e uma resposta categórica.
+
+**Dados e Scripts das aulas 32 a 40:**
+- Todos os scripts do curso ficam [disponíveis aqui nesta pasta do repositório](https://github.com/marcosvital/Aprendendo-R/tree/main/scripts) usado para criar o site do curso.
+- Todos os arquivos de dados  do curso ficam [disponíveis aqui nesta pasta do repositório](https://github.com/marcosvital/Aprendendo-R/tree/main/dados) usado para criar o site do curso.
+
 
 **Conteúdo novo em breve**
 
