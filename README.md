@@ -311,6 +311,56 @@ Para finalizar esta sequência de aulas brincando com os dados dos Pinguins de P
 
 Nós avançamos bastante na nossa jornada de uso do R, e agora é um momento bem importante para conversamos sobre como resolver problemas e erros que surgem no dia à dia de uso da linguagem, como procurar ajuda na internet e termos uma visão geral da comunidade de usuários e entusiastas do R (e como ela pode nos ajudar, e muito).
 
+### Aula 28: não eRRe no R! (ou erre sim, mas aprenda a contornar os erros e seguir adiante)
+
+Como primeiro momento de aprender a lidar com desafios para quem está aprendendo (e mesmo para quem já conhece bem), vamos aprender mais sobre os erros no R! A imagem a seguir irá te direcionar para o vídeo no Youtube (use a opção de abrir em outra aba se desejar):
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/bvFzATVmdeA)](https://youtu.be/bvFzATVmdeA)
+
+### Aula 29: o sistema de ajuda e documentação do R
+
+O R conta com um sistema interno de ajuda e documentação, e explorá-lo aos poucos é uma parte essencial do nosos processo de aprendizagem. A imagem a seguir irá te direcionar para o vídeo no Youtube (use a opção de abrir em outra aba se desejar):
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/BBQSIM-d4zo)](https://youtu.be/BBQSIM-d4zo)
+
+### Aula 30: procurando ajuda online, resolvendo problemas e a comunidade do R
+
+Para finalizar nosso módulo, vamos parar um instante para entender como buscar ajuda e resolver problemas com o R, aproveitando da vasta comunidade envolvida com a linguagem. A imagem a seguir irá te direcionar para o vídeo no Youtube (use a opção de abrir em outra aba se desejar):
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/Y4hGPiic72c)](https://youtu.be/Y4hGPiic72c)
+
+#### Para finalizar o módulo 7: textos e recursos importantes!
+
+- [Texto que escrevi em 2021 com dicas para aprendizagem de R.](https://medium.com/hip%C3%B3tese-nula/aprendendo-r-e6c12d1c999e)
+- [Site "Blogs de R no Brasil".](https://marcosvital.github.io/blogs-de-R-no-Brasil/)
+- [Stack Overflow.](https://stackoverflow.com/questions)
+- [Grupo do Telegram "R Brasil".](https://t.me/rbrasiloficial)
+
+***
+
+## Aulas extras: delineamento experimental e método hipotético dedutivo
+
+Interrompemos nosso fluxo de aulas para um assunto importante: a forma como planejamos nossas coletas de dados e como pensar em Perguntas, Hipóteses e Predições a partir da lógica hipotético dedutiva. Aqui aproveito vídeos que gravei para a minha disciplina de Bioestatística, disponíveis no meu canal e agora incorporadas a este curso.
+
+### Aula: formulando perguntas e delineando experimentos.
+
+Nesta primeira aula sobre o assunto, apresendo alguns dos fundamentos do Delineamento Experimental e falo sobre a lógica hipotético-dedutiva. A imagem a seguir irá te direcionar para o vídeo no Youtube (use a opção de abrir em outra aba se desejar):
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/X9GmCo1xF-I)](https://youtu.be/X9GmCo1xF-I)
+
+### Aula: um exemplo de delineamento experimental.
+
+Nesta segunda aula sobre o tema, eu uso um exemplo da área de Ecologia para ilustrar os conceitos de delineamento experimental dentro do arcabouço da lógica hipotético dedutiva. A imagem a seguir irá te direcionar para o vídeo no Youtube (use a opção de abrir em outra aba se desejar):
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/UXZ0UANsOoo)](https://youtu.be/UXZ0UANsOoo)
+
+***
+
+## Módulo 8: gráficos no R e visualização da relação entre variáveis
+
+Agora daremos um passo importante na nossa jornada de aprendizagem de R: vamos olhar com mais cuidado e profundidade para os gráficos. Iniciaremos revendo os que já conhecemos, e depois avançaremos para os gráficos que nos permitem investigar a possível relação entre duas variáveis escolhidas.
+
+
 **Conteúdo novo em breve**
 
 ***
