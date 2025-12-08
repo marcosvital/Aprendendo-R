@@ -38,12 +38,12 @@ Este curso foi lançado pronto, mas pode passar por atualizações e expansões.
 ## Sumário:
 
 ### [Aprendendo R para Análise de Dados (Bloco 1)](https://marcosvital.github.io/Aprendendo-R#bloco-1-aprendendo-r-para-an%C3%A1lise-de-dados)
-1. [Módulo 1: vamos começar!](https://marcosvital.github.io/Aprendendo-R#m%C3%B3dulo-1-vamos-come%C3%A7ar)
+* [Módulo 1: vamos começar!](https://marcosvital.github.io/Aprendendo-R#m%C3%B3dulo-1-vamos-come%C3%A7ar)
   1. [Aula 1: visão geral do curso](https://marcosvital.github.io/Aprendendo-R#aula-1-vis%C3%A3o-geral-do-curso)
   2. [Aula 2: primeiro contato com o R](https://marcosvital.github.io/Aprendendo-R#aula-2-primeiro-contato-com-o-r-apenas-para-olhar)
   3. [Aula 3: o que é o R e por que usá-lo](https://marcosvital.github.io/Aprendendo-R#aula-3-o-que-%C3%A9-o-r-e-por-que-us%C3%A1-lo)
   4. [Aula 4: instalando e configurando o R e o RStudio](https://marcosvital.github.io/Aprendendo-R#aula-4-instalando-e-configurando-o-r-e-o-rstudio)
-2. [Módulo 2: primeiros passos no R](https://marcosvital.github.io/Aprendendo-R#m%C3%B3dulo-2-primeiros-passos-no-r)
+* [Módulo 2: primeiros passos no R](https://marcosvital.github.io/Aprendendo-R#m%C3%B3dulo-2-primeiros-passos-no-r)
   5. [Aula 5: meu primeiro script no R](https://marcosvital.github.io/Aprendendo-R#aula-5-meu-primeiro-script-no-r)
   6. [Aula 6: as funções no R](https://marcosvital.github.io/Aprendendo-R#aula-6-as-fun%C3%A7%C3%B5es-no-r)
   7. [Aula 7: os objetos no R](https://marcosvital.github.io/Aprendendo-R#aula-7-os-objetos-no-r)
