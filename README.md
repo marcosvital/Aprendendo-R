@@ -27,7 +27,7 @@ Esta página reune todos os conteúdos de um curso sobre a [linguagem R](https:/
 
 Todos os vídeos estão hospedados em [meu canal do Youtube](youtube.com/@marcosvital) dentro de uma playlist dedicada (link aqui em breve). Os conteúdos para download estão disponíveis aqui mesmo nesta página, dentro do [repositório do GitHub](https://github.com/marcosvital/Aprendendo-R) usado para criá-la. Textos complementares escritos por mim estarão na [minha página do Medium](https://marcosvital.medium.com), e conteúdos externos serão sinalizados ao longo do caminho.
 
-O conteúdo está dividido em dois Blocos: **"Bloco 1: Aprendendo R"** e **"Bloco 2: Ensinando R"**. Dentro de cada bloco o curso está dividido em **Módulos** que organizam o conteúdo. 
+O conteúdo está dividido em dois Blocos: [**"Bloco 1: Aprendendo R"**](https://marcosvital.github.io/Aprendendo-R#bloco-1-aprendendo-r-para-an%C3%A1lise-de-dados) e [**"Bloco 2: Ensinando R"**](https://marcosvital.github.io/Aprendendo-R#bloco-2-ensinando-r-para-an%C3%A1lise-de-dados). Dentro de cada bloco o curso está dividido em **Módulos** que organizam o conteúdo. 
 
 **Avisos importantes:** o conteúdo foi criado e planejado para ser consumido na ordem exposta aqui, mas você tem total liberdade de usá-lo como preferir. Lembre-se que **este curso é autoinstrucional**: isto quer dizer que você irá ditar o ritmo e a forma de estudar, e também que <ins>ele não possui vínculo institucional, não oferece qualquer tipo de certificado e não tem qualquer tipo de acompanhamento ou tutoria, ok?</ins>
 
@@ -35,6 +35,21 @@ Este curso foi lançado pronto, mas pode passar por atualizações e expansões.
 
 ***
 
+## Sumário:
+
+### [Aprendendo R para Análise de Dados (Bloco 1)](https://marcosvital.github.io/Aprendendo-R#bloco-1-aprendendo-r-para-an%C3%A1lise-de-dados)
+1. [Módulo 1: vamos começar!](https://marcosvital.github.io/Aprendendo-R#m%C3%B3dulo-1-vamos-come%C3%A7ar)
+  1. [Aula 1: visão geral do curso](https://marcosvital.github.io/Aprendendo-R#aula-1-vis%C3%A3o-geral-do-curso)
+  2. [Aula 2: primeiro contato com o R](https://marcosvital.github.io/Aprendendo-R#aula-2-primeiro-contato-com-o-r-apenas-para-olhar)
+  3. [Aula 3: o que é o R e por que usá-lo](https://marcosvital.github.io/Aprendendo-R#aula-3-o-que-%C3%A9-o-r-e-por-que-us%C3%A1-lo)
+  4. [Aula 4: instalando e configurando o R e o RStudio](https://marcosvital.github.io/Aprendendo-R#aula-4-instalando-e-configurando-o-r-e-o-rstudio)
+2. [Módulo 2: primeiros passos no R](https://marcosvital.github.io/Aprendendo-R#m%C3%B3dulo-2-primeiros-passos-no-r)
+  5. [Aula 5: meu primeiro script no R](https://marcosvital.github.io/Aprendendo-R#aula-5-meu-primeiro-script-no-r)
+  6. [Aula 6: as funções no R](https://marcosvital.github.io/Aprendendo-R#aula-6-as-fun%C3%A7%C3%B5es-no-r)
+  7. [Aula 7: os objetos no R](https://marcosvital.github.io/Aprendendo-R#aula-7-os-objetos-no-r)
+
+
+***
 # Bloco 1: Aprendendo R para Análise de Dados
 
 Nosso ponto de partida é começar a aprender mais sobre o R! Não se preocupe: se você nunca ouviu falar ou se sabe bem pouco sobre o R, o conteúdo a seguir foi pensando em você. Se você já tentou lidar com o R antes e achou tudo muito difícil, complicado ou frustrante: não se preocupe também, prometo que nossa jornada foi pensada para ser fluida, amigável e até mesmo (juro!) divertida!
