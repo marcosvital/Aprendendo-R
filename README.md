@@ -514,7 +514,10 @@ Neste módulo teremos aulas gravas por estudantes do [Laboratório de Ecologia Q
 
 ### Aprendendo sobre o pacote SkimR com Luis Filipe
 
-Nesta aula, Luis Filipe irá mostrar o uso da função skim() do pacote SkimR.
+Nesta aula, Luis Filipe irá mostrar o uso da função skim() do pacote SkimR. A imagem a seguir irá te direcionar para o vídeo no Youtube (use a opção de abrir em outra aba se desejar):
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/BDvauXWWEfM)](https://youtu.be/BDvauXWWEfM)
+
 
 ### Aprendendo sobre controle de versões com Lupin Teles
 
