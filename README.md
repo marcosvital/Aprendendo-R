@@ -91,8 +91,8 @@ Este curso foi lançado pronto, mas pode passar por atualizações e expansões.
   - Aula 40: Boxplots na horizontal no R
   - Aula 41: Gráfico de Dispersão com categorias no R
 * Módulo Extra: aprendendo com estudantes!
-  - Aprendendo sobre o pacote SkimR com Luís Filipe
-  - Aprendendo sobre controle de versões com Lupim
+  - Aprendendo sobre o pacote SkimR com Luis Filipe
+  - Aprendendo sobre controle de versões com Lupin Teles
 
 ### [Ensinando R para Análise de Dados (Bloco 2)](https://marcosvital.github.io/Aprendendo-R#bloco-2-ensinando-r-para-an%C3%A1lise-de-dados)
 * Módulo 
@@ -461,35 +461,62 @@ Vamos voltar um pouquinho aos slides, e pensar um pouco em como gráficos podem 
 
 ### Aula 35: boxplots no R
 
-Vamos conhecer os boxplots, usando-os para interpretar a relação entre uma variável explicativa categórica e uma resposta quantitativa, criando um script modelo.
+Vamos conhecer os boxplots, usando-os para interpretar a relação entre uma variável explicativa categórica e uma resposta quantitativa, criando um script modelo. A imagem a seguir irá te direcionar para o vídeo no Youtube (use a opção de abrir em outra aba se desejar):
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/IfGKo4qIJsc)](https://youtu.be/IfGKo4qIJsc)
 
 ### Aula 36: explorando distribuições de frequência no R
 
-Agora que conhecemos bem os histogramas, os boxplots e sabemos um pouco de estatística descritiva, vamos usar estas ferramentas para entender mais sobre como os valores de variáveis quantitativas podem se distribuir.
+Agora que conhecemos bem os histogramas, os boxplots e sabemos um pouco de estatística descritiva, vamos usar estas ferramentas para entender mais sobre como os valores de variáveis quantitativas podem se distribuir. A imagem a seguir irá te direcionar para o vídeo no Youtube (use a opção de abrir em outra aba se desejar):
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/euarf-wHtos)](https://youtu.be/euarf-wHtos)
 
 ### Aula 37: gráficos de dispersão no R
 
-Agora vamos aprender sobre como usar gráficos de dispersão para entender a relação entre duas variáveis quantitativas.
+Agora vamos aprender sobre como usar gráficos de dispersão para entender a relação entre duas variáveis quantitativas. A imagem a seguir irá te direcionar para o vídeo no Youtube (use a opção de abrir em outra aba se desejar):
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/cEvQQjCvCOk)](https://youtu.be/cEvQQjCvCOk)
 
 ### Aula 38: gráficos de barras no R
 
-Agora vamos aprender sobre como usar gráficos de barras para entender a relação entre duas variáveis categóricas no R.
+Agora vamos aprender sobre como usar gráficos de barras para entender a relação entre duas variáveis categóricas no R. A imagem a seguir irá te direcionar para o vídeo no Youtube (use a opção de abrir em outra aba se desejar):
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/2AImLvpwy1o)](https://youtu.be/2AImLvpwy1o)
 
 ### Aula 39: editando os níveis de uma variável categórica e adicionando legendas nos gráficos
 
-Vamos continuar com nossa aula sobre os gráficos de barras, e vamos usar nosso exemplo para aprender a alterar a ordem dos níveis de  um fator, alterar as cores do gráfico e adicionar uma legenda.
+Vamos continuar com nossa aula sobre os gráficos de barras, e vamos usar nosso exemplo para aprender a alterar a ordem dos níveis de  um fator, alterar as cores do gráfico e adicionar uma legenda. A imagem a seguir irá te direcionar para o vídeo no Youtube (use a opção de abrir em outra aba se desejar):
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/7cZL9bBhlww)](https://youtu.be/7cZL9bBhlww)
 
 ### Aula 40: boxplots na horizontal no R
 
-Vamos voltar aos boxplots, mas agora iremos inverter os eixos e pensar em como explorar a relação de uma variável explicativa quantitativa e uma resposta categórica.
+Vamos voltar aos boxplots, mas agora iremos inverter os eixos e pensar em como explorar a relação de uma variável explicativa quantitativa e uma resposta categórica. A imagem a seguir irá te direcionar para o vídeo no Youtube (use a opção de abrir em outra aba se desejar):
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/i9q4nvsTsfg)](https://youtu.be/i9q4nvsTsfg)
 
 ### Aula 41: gráfico de dispersão com categorias no R
 
-Vamos voltar aos dados dos pinguins de Palmer e aos nossos gráficos de dispersão, para fazer algo diferente: adicionar uma terceira variável no gráfico (e não vai ser gráfico 3D!).
+Vamos voltar aos dados dos pinguins de Palmer e aos nossos gráficos de dispersão, para fazer algo diferente: adicionar uma terceira variável no gráfico (e não vai ser gráfico 3D!). A imagem a seguir irá te direcionar para o vídeo no Youtube (use a opção de abrir em outra aba se desejar):
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/qJyns6H2_Aw)](https://youtu.be/qJyns6H2_Aw)
 
 **Dados e Scripts das aulas 32 a 41:**
 - Todos os scripts do curso ficam [disponíveis aqui nesta pasta do repositório](https://github.com/marcosvital/Aprendendo-R/tree/main/scripts) usado para criar o site do curso.
 - Todos os arquivos de dados  do curso ficam [disponíveis aqui nesta pasta do repositório](https://github.com/marcosvital/Aprendendo-R/tree/main/dados) usado para criar o site do curso.
+
+## Módulo extra: aprendendo com estudantes!
+
+Neste módulo teremos aulas gravas por estudantes do [Laboratório de Ecologia Quantitativa da UFAL](https://linktr.ee/leq.ufal) e de outras pessoas convidadas. A proposta é que alguém que esteja aprendendo R compartilhe algo de útil, interessante ou empolgante que aprendeu! Não são vídeos com uma ordem fixa para serem assistidos, você pode acompanhar como preferir, ok?
+
+### Aprendendo sobre o pacote SkimR com Luis Filipe
+
+Nesta aula, Luis Filipe irá mostrar o uso da função skim() do pacote SkimR.
+
+### Aprendendo sobre controle de versões com Lupin Teles
+
+Nesta aula, Lupin irá mostrar como conectar o RStudio com o GitHub para trabalhar com controle de versões no R.
+
 
 ***
 ***
