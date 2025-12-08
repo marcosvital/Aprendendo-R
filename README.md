@@ -88,14 +88,17 @@ Este curso foi lançado pronto, mas pode passar por atualizações e expansões.
   - [Aula 37: Gráficos de Dispersão no R](https://marcosvital.github.io/Aprendendo-R#aula-37-gr%C3%A1ficos-de-dispers%C3%A3o-no-r)
   - [Aula 38: Gráficos de Barras no R](https://marcosvital.github.io/Aprendendo-R#aula-38-gr%C3%A1ficos-de-barras-no-r)
   - [Aula 39: editando os níveis de uma variável categórica e adicionando legenda nos gráficos](https://marcosvital.github.io/Aprendendo-R#aula-39-editando-os-n%C3%ADveis-de-uma-vari%C3%A1vel-categ%C3%B3rica-e-adicionando-legendas-nos-gr%C3%A1ficos)
-  - Aula 40: Boxplots na horizontal no R
-  - Aula 41: Gráfico de Dispersão com categorias no R
-* Módulo Extra: aprendendo com estudantes!
-  - Aprendendo sobre o pacote SkimR com Luis Filipe
-  - Aprendendo sobre controle de versões com Lupin Teles
+  - [Aula 40: Boxplots na horizontal no R](https://marcosvital.github.io/Aprendendo-R#aula-40-boxplots-na-horizontal-no-r)
+  - [Aula 41: Gráfico de Dispersão com categorias no R](https://marcosvital.github.io/Aprendendo-R#aula-41-gr%C3%A1fico-de-dispers%C3%A3o-com-categorias-no-r)
+
+* [Módulo Extra: aprendendo com estudantes!](https://marcosvital.github.io/Aprendendo-R#m%C3%B3dulo-extra-aprendendo-com-estudantes)
+  - [Aprendendo sobre o pacote SkimR com Luis Filipe](https://marcosvital.github.io/Aprendendo-R#aprendendo-sobre-o-pacote-skimr-com-luis-filipe)
+  - [Aprendendo sobre controle de versões com Lupin Teles](https://marcosvital.github.io/Aprendendo-R#aprendendo-sobre-controle-de-vers%C3%B5es-com-lupin-teles)
 
 ### [Ensinando R para Análise de Dados (Bloco 2)](https://marcosvital.github.io/Aprendendo-R#bloco-2-ensinando-r-para-an%C3%A1lise-de-dados)
-* Módulo 
+
+* [Módulo Único:  pensando nos processs de Ensino e Aprendizagem de R](https://marcosvital.github.io/Aprendendo-R#m%C3%B3dulo-%C3%BAnico-pensando-nos-processos-de-ensino-e-aprendizagem-de-r)
+  - [Aula 1: visão geral de aprender e ensinar R](https://marcosvital.github.io/Aprendendo-R#aula-1-vis%C3%A3o-geral)
 
 ### Organização do material disponível para download:
 
