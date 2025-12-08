@@ -368,15 +368,21 @@ Vamos iniciar um novo e importante módulo, e nesta primeira (e breve) aula vamo
 
 ### Aula 32: histogramas no R
 
-Vamos voltar as histogramas? Mas agora que sabemos mais sobre o uso do R, vamos editá-lo, observar dados por trás e gerar um script modelo.
+Vamos voltar as histogramas? Mas agora que sabemos mais sobre o uso do R, vamos editá-lo, observar dados por trás e gerar um script modelo. A imagem a seguir irá te direcionar para o vídeo no Youtube (use a opção de abrir em outra aba se desejar):
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/GfiHNWBQ6tc)](https://youtu.be/GfiHNWBQ6tc)
 
 ### Aula 33: gráficos de barras simples no R
 
-Assim como voltamos aos histogramas, também vamos voltar aos gráficos de barras - e novamente vamos explorar com cuidado, para também gerar um script modelo.
+Assim como voltamos aos histogramas, também vamos voltar aos gráficos de barras - e novamente vamos explorar com cuidado, para também gerar um script modelo. A imagem a seguir irá te direcionar para o vídeo no Youtube (use a opção de abrir em outra aba se desejar):
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/nQYijavs30Q)](https://youtu.be/nQYijavs30Q)
 
 ### Aula 34: perguntas, hipóteses, predições e relações entre variáveis em gráficos
 
-Vamos voltar um pouquinho aos slides, e pensar um pouco em como gráficos podem nos ajudar a explorar e entender a relação entre duas variáveis. Neste ponto pode ser interessante ter assistido as aulas extras sobre Delineamento e sobre Método Hipotético Dedutivo que foram disponibilizadas acima.
+Vamos voltar um pouquinho aos slides, e pensar um pouco em como gráficos podem nos ajudar a explorar e entender a relação entre duas variáveis. Neste ponto pode ser interessante ter assistido as aulas extras sobre Delineamento e sobre Método Hipotético Dedutivo que foram disponibilizadas acima. A imagem a seguir irá te direcionar para o vídeo no Youtube (use a opção de abrir em outra aba se desejar):
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/bikGEPiwzf8)](https://youtu.be/bikGEPiwzf8)
 
 **Slides disponíveis da aula 34:**
 - [Originais no formato "Apresentações Google"](https://docs.google.com/presentation/d/1y_YgpO-hyKXbUsnRL0Wzb0gOUQ9Romu0VbrlPsm0Gts/edit?usp=sharing) (use a opção de "fazer uma cópia" para ter sua própria versão editável).
