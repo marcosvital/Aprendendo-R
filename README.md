@@ -518,11 +518,11 @@ Nesta aula, Luis Filipe irá mostrar o uso da função skim() do pacote SkimR. A
 
 [![](https://markdown-videos-api.jorgenkh.no/youtube/BDvauXWWEfM)](https://youtu.be/BDvauXWWEfM)
 
-
 ### Aprendendo sobre controle de versões com Lupin Teles
 
-Nesta aula, Lupin irá mostrar como conectar o RStudio com o GitHub para trabalhar com controle de versões no R.
+Nesta aula, Lupin irá mostrar como conectar o RStudio com o GitHub para trabalhar com controle de versões no R. A imagem a seguir irá te direcionar para o vídeo no Youtube (use a opção de abrir em outra aba se desejar):
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/FeXAUpIfhVw)](https://youtu.be/FeXAUpIfhVw)
 
 ***
 ***
