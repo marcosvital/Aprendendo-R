@@ -90,8 +90,19 @@ Este curso foi lançado pronto, mas pode passar por atualizações e expansões.
   - [Aula 39: editando os níveis de uma variável categórica e adicionando legenda nos gráficos](https://marcosvital.github.io/Aprendendo-R#aula-39-editando-os-n%C3%ADveis-de-uma-vari%C3%A1vel-categ%C3%B3rica-e-adicionando-legendas-nos-gr%C3%A1ficos)
   - Aula 40: Boxplots na horizontal no R
   - Aula 41: Gráfico de Dispersão com categorias no R
+* Módulo Extra: aprendendo com estudantes!
+  - Aprendendo sobre o pacote SkimR com Luís Filipe
+  - Aprendendo sobre controle de versões com Lupim
 
 ### [Ensinando R para Análise de Dados (Bloco 2)](https://marcosvital.github.io/Aprendendo-R#bloco-2-ensinando-r-para-an%C3%A1lise-de-dados)
+* Módulo 
+
+### Organização do material disponível para download:
+
+* [Slides disponíveis para download aqui](https://github.com/marcosvital/Aprendendo-R/tree/main/slides), e link para os originais do Google após cada aula.
+* [Dados usados nas aulas disponíveis para download aqui](https://github.com/marcosvital/Aprendendo-R/tree/main/dados).
+* [Scripts de R criados nas aulas disponíveis para download aqui](https://github.com/marcosvital/Aprendendo-R/tree/main/scripts).
+* Links para outros recursos e conteúdos são disponibilizados dentro da estrutura do curso, em seus respectivos módulos.
 
 ***
 
@@ -472,12 +483,13 @@ Vamos continuar com nossa aula sobre os gráficos de barras, e vamos usar nosso 
 
 Vamos voltar aos boxplots, mas agora iremos inverter os eixos e pensar em como explorar a relação de uma variável explicativa quantitativa e uma resposta categórica.
 
-**Dados e Scripts das aulas 32 a 40:**
+### Aula 41: gráfico de dispersão com categorias no R
+
+Vamos voltar aos dados dos pinguins de Palmer e aos nossos gráficos de dispersão, para fazer algo diferente: adicionar uma terceira variável no gráfico (e não vai ser gráfico 3D!).
+
+**Dados e Scripts das aulas 32 a 41:**
 - Todos os scripts do curso ficam [disponíveis aqui nesta pasta do repositório](https://github.com/marcosvital/Aprendendo-R/tree/main/scripts) usado para criar o site do curso.
 - Todos os arquivos de dados  do curso ficam [disponíveis aqui nesta pasta do repositório](https://github.com/marcosvital/Aprendendo-R/tree/main/dados) usado para criar o site do curso.
-
-
-**Conteúdo novo em breve**
 
 ***
 ***
@@ -486,4 +498,9 @@ Vamos voltar aos boxplots, mas agora iremos inverter os eixos e pensar em como e
 
 Agora chegamos em nossa segunda etapa, e de posse dos nossos conhecimentos sobre o R e seu uso, vamos pensar em como ensinar isso para outras pessoas!
 
-**Conteúdo novo em breve**
+## Módulo único: pensando nos processos de ensino e aprendizagem de R
+
+### Aula 1: visão geral
+
+Nesta primeira aula do nosso bloco "Ensinando R" quero compartilhar um pouco do "por que estou aqui" e minha visão geral sobre Ensino e Aprendizagem de R.
+
