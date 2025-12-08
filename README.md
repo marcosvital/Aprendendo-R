@@ -47,9 +47,21 @@ Este curso foi lançado pronto, mas pode passar por atualizações e expansões.
   - [Aula 5: meu primeiro script no R](https://marcosvital.github.io/Aprendendo-R#aula-5-meu-primeiro-script-no-r)
   - [Aula 6: as funções no R](https://marcosvital.github.io/Aprendendo-R#aula-6-as-fun%C3%A7%C3%B5es-no-r)
   - [Aula 7: os objetos no R](https://marcosvital.github.io/Aprendendo-R#aula-7-os-objetos-no-r)
+* [Módulo 3: conceitos básicos e data frames no R](https://marcosvital.github.io/Aprendendo-R#m%C3%B3dulo-3-conceitos-b%C3%A1sicos-e-data-frames-no-r)
+  - [Aula 8: primeiros conceitos de estatística](https://marcosvital.github.io/Aprendendo-R#aula-8-primeiros-conceitos-de-estat%C3%ADstica)
+  - [Aula 9: primeiros passos com data frames](https://marcosvital.github.io/Aprendendo-R#aula-9-primeiros-passos-com-dados-no-r-lidando-com-os-data-frames)
+  - [Aula 10: linhas e colunas em um data frame](https://marcosvital.github.io/Aprendendo-R#aula-10-linhas-e-colunas-em-um-data-frame-no-r)
+  - [Aula 11: usando a função which, parte 1](https://marcosvital.github.io/Aprendendo-R#aula-11-usando-a-fun%C3%A7%C3%A3o-which-para-fazer-perguntas-e-explorar-data-frames-no-r-parte-1)
+  - [Aula 12: usando a função which, parte 2](https://marcosvital.github.io/Aprendendo-R#aula-12-usando-a-fun%C3%A7%C3%A3o-which-para-fazer-perguntas-e-explorar-data-frames-no-r-parte-2)
+* [Módulo 4: estatística descritiva no R e primeiros gráficos](https://marcosvital.github.io/Aprendendo-R#m%C3%B3dulo-4-estat%C3%ADstica-descritiva-no-r-e-primeiros-gr%C3%A1ficos)
+  - [Aula 13: Média e desvio padrão](https://marcosvital.github.io/Aprendendo-R#aula-13-estat%C3%ADstica-descritiva-parte-1-m%C3%A9dia-e-desvio-padr%C3%A3o)
+  - [Aula 14: Média e desvio no R, e como lidar com NAs](https://marcosvital.github.io/Aprendendo-R#aula-14-m%C3%A9dia-e-desvio-padr%C3%A3o-no-r-e-como-lidar-com-nas-al%C3%A9m-de-um-histograma-de-brinde)
+  - [Aula 15: Medidas de posição (mediana, quartis, percentis)](https://marcosvital.github.io/Aprendendo-R#aula-15-estat%C3%ADstica-descritiva-parte-2-as-medidas-de-posi%C3%A7%C3%A3o-mediana-quartis-e-percentis)
+  - [Aula 16: Medidas de posição no R](https://marcosvital.github.io/Aprendendo-R#aula-16-calculando-medidas-de-posi%C3%A7%C3%A3o-no-r-mediana-quartis-e-percentis)
 
 
 ***
+
 # Bloco 1: Aprendendo R para Análise de Dados
 
 Nosso ponto de partida é começar a aprender mais sobre o R! Não se preocupe: se você nunca ouviu falar ou se sabe bem pouco sobre o R, o conteúdo a seguir foi pensando em você. Se você já tentou lidar com o R antes e achou tudo muito difícil, complicado ou frustrante: não se preocupe também, prometo que nossa jornada foi pensada para ser fluida, amigável e até mesmo (juro!) divertida!
