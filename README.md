@@ -99,10 +99,10 @@ Este curso foi lançado pronto, mas pode passar por atualizações e expansões.
 
 * [Módulo Único:  pensando nos processs de Ensino e Aprendizagem de R](https://marcosvital.github.io/Aprendendo-R#m%C3%B3dulo-%C3%BAnico-pensando-nos-processos-de-ensino-e-aprendizagem-de-r)
   - [Aula 1: visão geral de aprender e ensinar R](https://marcosvital.github.io/Aprendendo-R#aula-1-vis%C3%A3o-geral)
-  - Aula 2: pensando no planejamento de um curso de R
-  - Aula 3: vamos errar no R!
-  - Aula 4: pensando em caminhos diferentes e em como escrever scripts
-  - Aula 5: pontos centrais e a alegria de aprender!
+  - [Aula 2: pensando no planejamento de um curso de R](https://marcosvital.github.io/Aprendendo-R#aula-2-pensando-no-planejamento-de-um-curso-de-r)
+  - [Aula 3: vamos errar no R!](https://marcosvital.github.io/Aprendendo-R#aula-3-vamos-errar-no-r)
+  - [Aula 4: pensando em caminhos diferentes e em como escrever scripts](https://marcosvital.github.io/Aprendendo-R#aula-4-pensando-em-caminhos-diferentes-e-em-como-escrever-scripts)
+  - [Aula 5: pontos centrais e a alegria de aprender!](https://marcosvital.github.io/Aprendendo-R#aula-5-pontos-centrais-e-a-alegria-de-aprender)
 
 ### Organização do material disponível para download:
 
@@ -572,3 +572,5 @@ Nesta aula vamos revistar os pontos cetrais que vejo como fundamentais sobre o e
 **Slides disponíveis do Bloco 2:**
 - [Originais no formato "Apresentações Google"](https://docs.google.com/presentation/d/1NwY01DfV0fApsPqPheERjULNpyYJqMDliZDlPfgtvOk/edit?usp=sharing) (use a opção de "fazer uma cópia" para ter sua própria versão editável).
 - [Slides em formato pdf (para reprodução) e formato odp (para edição) disponíveis aqui](https://github.com/marcosvital/Aprendendo-R/tree/main/slides).
+
+**Por enquanto é só... mas mais conteúdo pode chegar em breve, então fique de olho!**
