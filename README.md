@@ -99,12 +99,18 @@ Este curso foi lançado pronto, mas pode passar por atualizações e expansões.
 
 * [Módulo Único:  pensando nos processs de Ensino e Aprendizagem de R](https://marcosvital.github.io/Aprendendo-R#m%C3%B3dulo-%C3%BAnico-pensando-nos-processos-de-ensino-e-aprendizagem-de-r)
   - [Aula 1: visão geral de aprender e ensinar R](https://marcosvital.github.io/Aprendendo-R#aula-1-vis%C3%A3o-geral)
+  - Aula 2: pensando no planejamento de um curso de R
+  - Aula 3: vamos errar no R!
+  - Aula 4: pensando em caminhos diferentes e em como escrever scripts
+  - Aula 5: pontos centrais e a alegria de aprender!
 
 ### Organização do material disponível para download:
 
 * [Slides disponíveis para download aqui](https://github.com/marcosvital/Aprendendo-R/tree/main/slides), e link para os originais do Google após cada aula.
 * [Dados usados nas aulas disponíveis para download aqui](https://github.com/marcosvital/Aprendendo-R/tree/main/dados).
 * [Scripts de R criados nas aulas disponíveis para download aqui](https://github.com/marcosvital/Aprendendo-R/tree/main/scripts).
+* [Apostila com informações básicas e construção do dicionário de funções ao longo do curso](https://docs.google.com/document/d/1AIjBKsGmIfaahwO3vR2S4CaNSB-5NG0mNrURWErCsYc/edit?usp=sharing) (crie uma cópia para editar e personalizar).
+* [Apostila com um tutorial de R para análise de Biodiversidade](https://docs.google.com/document/d/1Kovq30S_BbT6bHyow0YfvrctGvIUD5CBebHR178Tgfo/edit?usp=sharing) (crie uma cópia para editar e personalizar).
 * Links para outros recursos e conteúdos são disponibilizados dentro da estrutura do curso, em seus respectivos módulos.
 
 ***
@@ -535,5 +541,34 @@ Agora chegamos em nossa segunda etapa, e de posse dos nossos conhecimentos sobre
 
 ### Aula 1: visão geral
 
-Nesta primeira aula do nosso bloco "Ensinando R" quero compartilhar um pouco do "por que estou aqui" e minha visão geral sobre Ensino e Aprendizagem de R.
+Nesta primeira aula do nosso bloco "Ensinando R" quero compartilhar um pouco do "por que estou aqui" e minha visão geral sobre Ensino e Aprendizagem de R. A imagem a seguir irá te direcionar para o vídeo no Youtube (use a opção de abrir em outra aba se desejar):
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/QizrqXt3_Qo)](https://youtu.be/QizrqXt3_Qo)
+
+### Aula 2: pensando no planejamento de um curso de R
+
+Nesta aula vou usar a própria estrutura deste curso para refletir sobre as etapas de aprendizagem de R. A imagem a seguir irá te direcionar para o vídeo no Youtube (use a opção de abrir em outra aba se desejar):
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/_mhJ0YMgjKs)](https://youtu.be/_mhJ0YMgjKs)
+
+### Aula 3: vamos errar no R!
+
+Nesta aula vamos conversar sobre errar ao longo do caminho e usar estes erros como ferramentas didáticas. A imagem a seguir irá te direcionar para o vídeo no Youtube (use a opção de abrir em outra aba se desejar):
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/dnqHYsdbmT0)](https://youtu.be/dnqHYsdbmT0)
+
+### Aula 4: pensando em caminhos diferentes e em como escrever scripts
+
+Nesta aula vamos refletir sobre como escolher e mostrar caminhos diferentes para as mesmas tarefas, e falar um pouco sobre formas de organizar os comandos ao longo de um script. A imagem a seguir irá te direcionar para o vídeo no Youtube (use a opção de abrir em outra aba se desejar):
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/TTljVrUKU_g)](https://youtu.be/TTljVrUKU_g)
+
+### Aula 5: pontos centrais e a alegria de aprender!
+
+Nesta aula vamos revistar os pontos cetrais que vejo como fundamentais sobre o ensino do R. A imagem a seguir irá te direcionar para o vídeo no Youtube (use a opção de abrir em outra aba se desejar):
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/w2hObN5Pnus)](https://youtu.be/w2hObN5Pnus)
+
+**Slides disponíveis do Bloco 2:**
+- [Originais no formato "Apresentações Google"](https://docs.google.com/presentation/d/1NwY01DfV0fApsPqPheERjULNpyYJqMDliZDlPfgtvOk/edit?usp=sharing) (use a opção de "fazer uma cópia" para ter sua própria versão editável).
+- [Slides em formato pdf (para reprodução) e formato odp (para edição) disponíveis aqui](https://github.com/marcosvital/Aprendendo-R/tree/main/slides).
